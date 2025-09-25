@@ -10,8 +10,11 @@ The HTML Quiz Application is a web-based project using HTML, CSS, JavaScript, an
 Responsive and user-friendly interface
 
 10 HTML MCQs with 4 options each
+
 Next & Back navigation with answer saving
+
 Final score display after submission
+
 Clean design with simple animations
 
 **🔹 Technologies Used**
