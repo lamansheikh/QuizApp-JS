@@ -20,6 +20,9 @@ Clean design with simple animations
 **🔹 Technologies Used**
 HTML5, CSS3, Bootstrap 5, JavaScript (ES6)
 
+
+![Image](https://github.com/user-attachments/assets/45e09204-7c5c-41e1-ae6e-2f206011ea24)
+
 <img width="1010" height="504" alt="Image" src="https://github.com/user-attachments/assets/5367beac-4422-41bf-8986-c0d06b504091" />
 
 <img width="780" height="300" alt="Image" src="https://github.com/user-attachments/assets/a8b8eaf1-373d-4b06-af89-b38d79d47e24" />
